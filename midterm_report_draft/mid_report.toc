@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {0.1}Introduction}{2}
+\contentsline {subsection}{\numberline {0.1.1}Project Description \& Prerequisites}{2}
+\contentsline {subsubsection}{Learning and Practicing CUDA}{3}
+\contentsline {subsubsection}{Revision of Digital Design Topics}{5}
+\contentsline {subsection}{\numberline {0.1.2}Revision of Simulation Topics}{5}
+\contentsline {subsection}{\numberline {0.1.3}Learning Event-Driven Simulation in Gate Level}{6}
+\contentsline {section}{\numberline {0.2}Gate Level Simulation}{6}
+\contentsline {section}{\numberline {0.3}Related Work on Gate Level Simulation}{7}
+\contentsline {section}{\numberline {0.4}Decisions for implementation phase}{8}
+\contentsline {section}{\numberline {0.5}Conclusion}{9}

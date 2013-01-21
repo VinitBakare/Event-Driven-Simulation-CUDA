@@ -1,0 +1,56 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{}\fi
+
+\bibitem{cuda_be}
+Sanders, J. and E.~Kandrot, {\em CUDA by Example: An Introduction to
+  General-Purpose GPU Programming\/}, Addison-Wesley Professional, 1st edn.,
+  2010.
+
+\bibitem{baker}
+W.~Baker, A.~M. and B.~Carlson, \enquote{Parallel event-driven logic simulation
+  algorithms: Tutorial and comparative evaluation}, {\em IEEE Journal on
+  Circuits,Devices and Systems\/}, Vol.~21, 1996.
+
+\bibitem{manjikian}
+Manjikian, N. and W.~M. Loucks, \enquote{High performance parallel logic
+  simulations on a network of workstations}, {\em SIGSIM Simul. Dig.\/},
+  Vol.~23, No.~1, pp. 76--84, Jul. 1993,
+  \urlprefix\url{http://doi.acm.org/10.1145/174134.158469}.
+
+\bibitem{matsumoto}
+Matsumoto, Y. and K.~Taki, \enquote{Parallel logic simulation on a distributed
+  memory machine}, {\em Proc. EDAC\/}, 1992.
+
+\bibitem{kim}
+Kim, Y.-I., W.~Yang, Y.-S. Kwon and C.-M. Kyung,
+  \enquote{Communication-efficient hardware acceleration for fast functional
+  simulation}, {\em Proceedings of the 41st annual Design Automation
+  Conference\/}, DAC '04, pp. 293--298, ACM, New York, NY, USA, 2004,
+  \urlprefix\url{http://doi.acm.org/10.1145/996566.996654}.
+
+\bibitem{perinkulam}
+Perinkulam, A. and S.~Kundu, \enquote{Logic simulation using graphics
+  processors}, {\em In Proc. ITSW\/}, 2007.
+
+\bibitem{bertasco}
+Bertacco, V. and D.~Chatterjee, \enquote{High performance gate-level simulation
+  with GP-GPU computing}, {\em VLSI Design, Automation and Test (VLSI-DAT),
+  2011 International Symposium on\/}, pp. 1 --3, april 2011.
+
+\bibitem{chatterjee}
+Chatterjee, D., A.~DeOrio and V.~Bertacco, \enquote{GCS: high-performance
+  gate-level simulation with GP-GPUs}, {\em Proceedings of the Conference on
+  Design, Automation and Test in Europe\/}, DATE '09, pp. 1332--1337, European
+  Design and Automation Association, 3001 Leuven, Belgium, Belgium, 2009,
+  \urlprefix\url{http://dl.acm.org/citation.cfm?id=1874620.1874941}.
+
+\bibitem{sen}
+Sen, A., B.~Aksanli and M.~Bozkurt, \enquote{Speeding Up Cycle Based Logic
+  Simulation Using Graphics Processing Units}, {\em International Journal of
+  Parallel Programming\/}, Vol.~39, pp. 639--661, 2011,
+  \urlprefix\url{http://dx.doi.org/10.1007/s10766-011-0164-7}.
+
+\end{thebibliography}

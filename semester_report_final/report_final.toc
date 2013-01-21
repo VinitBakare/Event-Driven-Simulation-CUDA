@@ -1,0 +1,42 @@
+\contentsline {chapter}{\numberline {1.}Abstract}{1}
+\contentsline {chapter}{\numberline {2.}Introduction}{3}
+\contentsline {section}{\numberline {2.1.} Learning and Practicing CUDA}{3}
+\contentsline {section}{\numberline {2.2.} Revision of Digital Design Topics}{5}
+\contentsline {section}{\numberline {2.3.} Revision of Simulation Topics}{5}
+\contentsline {section}{\numberline {2.4.} Learning Event-Driven Simulation in Gate Level}{6}
+\contentsline {chapter}{\numberline {3.}Gate Level Simulation}{7}
+\contentsline {chapter}{\numberline {4.}Related Work on Gate Level Simulation}{9}
+\contentsline {chapter}{\numberline {5.}Contributions}{10}
+\contentsline {section}{\numberline {5.1.} Circuit Generator}{10}
+\contentsline {section}{\numberline {5.2.} Run Generator}{10}
+\contentsline {section}{\numberline {5.3.} Overall Structure of Simulation}{11}
+\contentsline {section}{\numberline {5.4.} Enigma Module: Sequential Approach}{14}
+\contentsline {section}{\numberline {5.5.} Meepo Module: Parallel Approach}{14}
+\contentsline {chapter}{\numberline {6.}Results}{15}
+\contentsline {chapter}{\numberline {7.}Conclusion}{17}
+\contentsline {chapter}{REFERENCES}{18}
+\noindent APPENDIX\ A:\hspace {1.6ex}Source Code : Circuit Generator \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 20}\par 
+\contentsline {section}{\numberline {A.1.} circuit.h}{20}
+\contentsline {section}{\numberline {A.2.} main.cpp}{20}
+\noindent APPENDIX\ B:\hspace {1.6ex}Source Code : Run Generator \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 23}\par 
+\contentsline {section}{\numberline {B.1.} main.cpp}{23}
+\noindent APPENDIX\ C:\hspace {1.6ex}Source Code : Enigma(Sequential) Module \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 24}\par 
+\contentsline {section}{\numberline {C.1.} circuit.h}{24}
+\contentsline {section}{\numberline {C.2.} circuit.cpp}{24}
+\contentsline {section}{\numberline {C.3.} event.h}{27}
+\contentsline {section}{\numberline {C.4.} event.cpp}{28}
+\contentsline {section}{\numberline {C.5.} gate.h}{28}
+\contentsline {section}{\numberline {C.6.} main.cpp}{28}
+\contentsline {section}{\numberline {C.7.} simulator.h}{29}
+\contentsline {section}{\numberline {C.8.} simulator.cpp}{29}
+\noindent APPENDIX\ D:\hspace {1.6ex}Source Code : Meepo (Parallel) Module \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 34}\par 
+\contentsline {section}{\numberline {D.1.} circuit.h}{34}
+\contentsline {section}{\numberline {D.2.} circuit.cpp}{34}
+\contentsline {section}{\numberline {D.3.} event.h}{34}
+\contentsline {section}{\numberline {D.4.} event.cpp}{34}
+\contentsline {section}{\numberline {D.5.} gate.h}{34}
+\contentsline {section}{\numberline {D.6.} gate.cpp}{34}
+\contentsline {section}{\numberline {D.7.} main.cpp}{34}
+\contentsline {section}{\numberline {D.8.} simulator.h}{35}
+\contentsline {section}{\numberline {D.9.} simulator.cpp}{35}
+\contentsline {section}{\numberline {D.10.} kernel.cu}{38}

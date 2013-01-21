@@ -1,0 +1,18 @@
+﻿  circuit.cpp
+  event.cpp
+  gate.cpp
+  main.cpp
+  simulator.cpp
+simulator.cpp(108): warning C4018: '<' : signed/unsigned mismatch
+simulator.cpp(118): warning C4018: '<' : signed/unsigned mismatch
+simulator.cpp(129): warning C4018: '<' : signed/unsigned mismatch
+simulator.cpp(158): warning C4018: '<' : signed/unsigned mismatch
+simulator.cpp(200): warning C4018: '<' : signed/unsigned mismatch
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+  enigma.vcxproj -> C:\boun\senior_project\devs\enigma\Release\enigma.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart*.dll" "C:\boun\senior_project\devs\enigma\Release\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart32_50_35.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart64_50_35.dll
+          2 file(s) copied.

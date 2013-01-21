@@ -1,0 +1,8 @@
+﻿  simulator.cpp
+c:\boun\senior_project\devs\meepo\meepo\simulator.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+c:\boun\senior_project\devs\meepo\meepo\simulator.cpp(135): warning C4018: '<' : signed/unsigned mismatch
+  meepo.vcxproj -> C:\boun\senior_project\devs\meepo\Debug\meepo.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart*.dll" "C:\boun\senior_project\devs\meepo\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart32_50_35.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart64_50_35.dll
+          2 file(s) copied.

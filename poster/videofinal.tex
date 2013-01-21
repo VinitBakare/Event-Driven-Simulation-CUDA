@@ -1,0 +1,89 @@
+\documentclass[aspectratio=1610]{beamer}
+\usetheme{Dresden}
+\title{Gate Level Event-Driven Simulation \\ using GPGPUs with CUDA}
+\author{Se\c{c}kin Sava\c{s}\c{c}\i}
+\institute{Bogazici University \\ Senior Project - CMPE492}
+
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}
+\LARGE\centering \textbf{More than half} of the effort in the design phase goes for verification and validation of the design! \\ 
+\end{frame}
+
+
+\begin{frame}{Simulation at a glance}
+\LARGE
+\begin{enumerate}
+\item get the inputs
+\item process the inputs
+\item get the outputs
+\end{enumerate}
+\end{frame}
+
+
+\begin{frame}
+
+\centering 
+\includegraphics[height=0.75\textheight]{simfd.png}
+
+\begin{enumerate}
+\item \textbf{Straightforward :} Simulate all sequentially!
+\item \textbf{Parallel :} Simulate parallel if you can!
+\item \textbf{Event-Driven : } Simulate parts if needed! 
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+\centering \includegraphics[height=0.75\textheight]{senior_demo.png}
+\end{frame}
+
+\begin{frame}{Why CUDA?}
+\begin{itemize}
+\item[+] Easy to learn
+\item[+] C + some gpu related calls
+\item[+] Easily wrappable for C++
+\item[-] Architecture dependent
+\item[-] NVDIA only
+\item[-] Host-Device distance
+\end{itemize}
+\end{frame}
+\begin{frame}{Contributions}
+\begin{itemize}
+\item \textbf{Circuit Generator} \\ A random circuit generator for our own circuit format
+\item \textbf{Run Generator} \\ A random run generator that feeds the simulation with inputs in each timestep
+\item \textbf{Sequential Event-Driven Circuit Simulator(Enigma)} \\ A sequential circuit simulator written in C++
+\item \textbf{Parallel Event-Driven Circuit Simulator(Meepo)} \\ Our project goal, parallelized version of Enigma simulator, 
+with the help of CUDA
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Simulation Cycle}
+\centering \includegraphics[height=0.75\textheight]{diagram.png} \\
+\centering Both Enigma and Meepo works similarly.
+\end{frame}
+
+\begin{frame}{Results}
+\centering \begin{tabular}{| r | r | r | r |}
+
+\hline                        
+Gates & Enigma(sec) & Meepo(sec) & Speed-up \\ \hline 
+1000 & 2.08 & 0.943 & 2.206 \\ \hline
+2000 & 6.053 & 1.658  & 3.651 \\ \hline
+3000 & 12.438 & 2.915 & 4.267 \\ \hline
+5000 & 32.246 & 6.363  & 5.068 \\ \hline
+10000 & 118.059 & 20.907 & 5.647 \\ \hline
+20000 & 493.285 & 85  & 5.803 \\ \hline
+30000 & 1060.34 & 181.785  & 5.833 \\ \hline
+\end{tabular} 
+\huge Up to 6x speed-up!
+\end{frame}
+
+\begin{frame}
+\LARGE Thanks for watching... \\
+Feel free to contact me via \texttt{seckin.savasci@gmail.com}
+\end{frame}
+
+\end{document}

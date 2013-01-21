@@ -1,0 +1,10 @@
+\contentsline {chapter}{\numberline {1.}Introduction}{1}
+\contentsline {section}{\numberline {1.1.} Learning and Practicing CUDA}{2}
+\contentsline {section}{\numberline {1.2.} Revision of Digital Design Topics}{4}
+\contentsline {section}{\numberline {1.3.} Revision of Simulation Topics}{4}
+\contentsline {section}{\numberline {1.4.} Learning Event-Driven Simulation in Gate Level}{5}
+\contentsline {chapter}{\numberline {2.}Gate Level Simulation}{6}
+\contentsline {chapter}{\numberline {3.}Related Work on Gate Level Simulation}{8}
+\contentsline {chapter}{\numberline {4.}Decisions for implementation phase}{9}
+\contentsline {chapter}{\numberline {5.}Conclusion}{10}
+\contentsline {chapter}{REFERENCES}{11}

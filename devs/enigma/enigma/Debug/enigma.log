@@ -1,0 +1,6 @@
+﻿  main.cpp
+  enigma.vcxproj -> C:\boun\senior_project\devs\enigma\Debug\enigma.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart*.dll" "C:\boun\senior_project\devs\enigma\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart32_50_35.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v5.0\bin\cudart64_50_35.dll
+          2 file(s) copied.
