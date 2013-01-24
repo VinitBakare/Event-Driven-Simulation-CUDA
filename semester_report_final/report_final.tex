@@ -267,7 +267,8 @@ Meepe module is a parallel event-driven circuit simulator written mainly in C++.
 \chapter{Results}
 In our tests, we simulated circuits which contain 1000, 2000, 3000, 5000, 10000, 20000, 30000. Bigger gates are omitted since one of the bigger circuit's simulation takes more than 15 minutes in Enigma module Results show that we have up to 6 times performance gain with the minumum of 2 times in the smallest circuit. Trend is that 6 times speed-up is stabilized for further simulations with bigger circuits.
 
-\centering \begin{tabular}{| r | r | r | r |}
+\begin{center}
+ \begin{tabular}{| r | r | r | r |}
 
 \hline                        
 Gates & Enigma(sec) & Meepo(sec) & Speed-up \\ \hline 
@@ -278,19 +279,27 @@ Gates & Enigma(sec) & Meepo(sec) & Speed-up \\ \hline
 10000 & 118.059 & 20.907 & 5.647 \\ \hline
 20000 & 493.285 & 85  & 5.803 \\ \hline
 30000 & 1060.34 & 181.785  & 5.833 \\ \hline
-\end{tabular}
+\end{tabular} 
 
 
 \includegraphics[height=0.45\textheight]{graph1.png} 
 \includegraphics[height=0.45\textheight]{graph2.png} 
-
+\end{center}
 \chapter{Conclusion}
 
 This project was a good opportunity to learn and apply event-driven gate simulation and parallel programming. It can also be given as a year long senior project with some extensions. I'm satisfied with the results yet more can be done to increase performance. I have written that report in order to help a future reader to understand our work and build on top of our achievements.
 
 I want to thank you my project advisor Alper Şen for his great helps especially in learning stage. I wouldn't complete this project without the resources  he'd provided.
 
+\chapter*{Acknowledgments}
+
+This work was supported in part by Marie Curie European Reintegration Grant within the 7th European Community Framework Programme, and Bogazici University Research Fund 5483.
+
+\newpage
+
 \appendix
+
+
 
 %\cite{*}
 \bibliographystyle{styles/fbe_tez_v11}

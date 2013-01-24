@@ -14,29 +14,30 @@
 \contentsline {section}{\numberline {5.5.} Meepo Module: Parallel Approach}{14}
 \contentsline {chapter}{\numberline {6.}Results}{15}
 \contentsline {chapter}{\numberline {7.}Conclusion}{17}
-\contentsline {chapter}{REFERENCES}{18}
-\noindent APPENDIX\ A:\hspace {1.6ex}Source Code : Circuit Generator \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 20}\par 
-\contentsline {section}{\numberline {A.1.} circuit.h}{20}
-\contentsline {section}{\numberline {A.2.} main.cpp}{20}
-\noindent APPENDIX\ B:\hspace {1.6ex}Source Code : Run Generator \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 23}\par 
-\contentsline {section}{\numberline {B.1.} main.cpp}{23}
-\noindent APPENDIX\ C:\hspace {1.6ex}Source Code : Enigma(Sequential) Module \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 24}\par 
-\contentsline {section}{\numberline {C.1.} circuit.h}{24}
-\contentsline {section}{\numberline {C.2.} circuit.cpp}{24}
-\contentsline {section}{\numberline {C.3.} event.h}{27}
-\contentsline {section}{\numberline {C.4.} event.cpp}{28}
-\contentsline {section}{\numberline {C.5.} gate.h}{28}
-\contentsline {section}{\numberline {C.6.} main.cpp}{28}
-\contentsline {section}{\numberline {C.7.} simulator.h}{29}
-\contentsline {section}{\numberline {C.8.} simulator.cpp}{29}
-\noindent APPENDIX\ D:\hspace {1.6ex}Source Code : Meepo (Parallel) Module \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 34}\par 
-\contentsline {section}{\numberline {D.1.} circuit.h}{34}
-\contentsline {section}{\numberline {D.2.} circuit.cpp}{34}
-\contentsline {section}{\numberline {D.3.} event.h}{34}
-\contentsline {section}{\numberline {D.4.} event.cpp}{34}
-\contentsline {section}{\numberline {D.5.} gate.h}{34}
-\contentsline {section}{\numberline {D.6.} gate.cpp}{34}
-\contentsline {section}{\numberline {D.7.} main.cpp}{34}
-\contentsline {section}{\numberline {D.8.} simulator.h}{35}
-\contentsline {section}{\numberline {D.9.} simulator.cpp}{35}
-\contentsline {section}{\numberline {D.10.} kernel.cu}{38}
+\contentsline {chapter}{Acknowledgments}{18}
+\contentsline {chapter}{REFERENCES}{19}
+\noindent APPENDIX\ A:\hspace {1.6ex}Source Code : Circuit Generator \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 21}\par 
+\contentsline {section}{\numberline {A.1.} circuit.h}{21}
+\contentsline {section}{\numberline {A.2.} main.cpp}{21}
+\noindent APPENDIX\ B:\hspace {1.6ex}Source Code : Run Generator \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 24}\par 
+\contentsline {section}{\numberline {B.1.} main.cpp}{24}
+\noindent APPENDIX\ C:\hspace {1.6ex}Source Code : Enigma(Sequential) Module \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 25}\par 
+\contentsline {section}{\numberline {C.1.} circuit.h}{25}
+\contentsline {section}{\numberline {C.2.} circuit.cpp}{25}
+\contentsline {section}{\numberline {C.3.} event.h}{28}
+\contentsline {section}{\numberline {C.4.} event.cpp}{29}
+\contentsline {section}{\numberline {C.5.} gate.h}{29}
+\contentsline {section}{\numberline {C.6.} main.cpp}{29}
+\contentsline {section}{\numberline {C.7.} simulator.h}{30}
+\contentsline {section}{\numberline {C.8.} simulator.cpp}{30}
+\noindent APPENDIX\ D:\hspace {1.6ex}Source Code : Meepo (Parallel) Module \penalty \@M \leaders \hbox {$\mathsurround \z@ \mkern 4.5mu.\mkern 4.5mu$} \hfill \penalty \@M \hbox to1.55em{\hss 35}\par 
+\contentsline {section}{\numberline {D.1.} circuit.h}{35}
+\contentsline {section}{\numberline {D.2.} circuit.cpp}{35}
+\contentsline {section}{\numberline {D.3.} event.h}{35}
+\contentsline {section}{\numberline {D.4.} event.cpp}{35}
+\contentsline {section}{\numberline {D.5.} gate.h}{35}
+\contentsline {section}{\numberline {D.6.} gate.cpp}{35}
+\contentsline {section}{\numberline {D.7.} main.cpp}{35}
+\contentsline {section}{\numberline {D.8.} simulator.h}{36}
+\contentsline {section}{\numberline {D.9.} simulator.cpp}{36}
+\contentsline {section}{\numberline {D.10.} kernel.cu}{39}

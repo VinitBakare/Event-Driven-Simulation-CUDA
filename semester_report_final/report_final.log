@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.20)  18 JAN 2013 04:34
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.20)  24 JAN 2013 14:16
 entering extended mode
 **report_final.tex
 (C:\boun\senior_project\semester_report_final\report_final.tex
@@ -320,7 +320,7 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [3
 
 ]
-Overfull \hbox (3.75136pt too wide) detected at line 42
+Overfull \hbox (3.75136pt too wide) detected at line 43
 \OT1/cmr/m/n/12 D.10. 
  []
 
@@ -382,21 +382,21 @@ Chapter 6.
 <graph1.png, id=71, 510.40688pt x 354.57469pt>
 File: graph1.png Graphic file (type png)
  <use graph1.png>
-Package pdftex.def Info: graph1.png used on input line 284.
+Package pdftex.def Info: graph1.png used on input line 285.
 (pdftex.def)             Requested size: 444.19058pt x 308.56804pt.
 
 <graph2.png, id=72, 510.40688pt x 354.57469pt>
 File: graph2.png Graphic file (type png)
  <use graph2.png>
-Package pdftex.def Info: graph2.png used on input line 285.
+Package pdftex.def Info: graph2.png used on input line 286.
 (pdftex.def)             Requested size: 444.19058pt x 308.56804pt.
 
-Overfull \hbox (3.17287pt too wide) in paragraph at lines 284--286
+Overfull \hbox (3.17287pt too wide) in paragraph at lines 285--287
  [][] 
  []
 
 
-Overfull \hbox (3.17287pt too wide) in paragraph at lines 284--286
+Overfull \hbox (3.17287pt too wide) in paragraph at lines 285--287
  [] 
  []
 
@@ -405,9 +405,11 @@ Overfull \hbox (3.17287pt too wide) in paragraph at lines 284--286
 ] [16 <C:/boun/senior_project/semester_report_final/graph1.png> <C:/boun/senior
 _project/semester_report_final/graph2.png>]
 Chapter 7.
-(C:\boun\senior_project\semester_report_final\report_final.bbl [17
+[17
 
-]
+] [18
+
+] (C:\boun\senior_project\semester_report_final\report_final.bbl
 Underfull \hbox (badness 1033) in paragraph at lines 44--49
 []\OT1/cmr/m/n/12 Chatterjee, D., A. De-O-rio and V. Bertacco, ``GCS: high-perf
 ormance gate-
@@ -431,64 +433,64 @@ Underfull \hbox (badness 2318) in paragraph at lines 44--49
 Bel-gium, 2009,
  []
 
-[18
+[19
 
-]) [19]
+]) [20]
 APPENDIX A.
-[20
+[21
 
-] [21] [22]
+] [22] [23]
 APPENDIX B.
-[23
+[24
 
 ]
 APPENDIX C.
-[24
+[25
 
-] [25] [26]
-Overfull \hbox (139.11562pt too wide) in paragraph at lines 711--711
+] [26] [27]
+Overfull \hbox (139.11562pt too wide) in paragraph at lines 720--720
 []\OT1/cmtt/m/n/6 cout << " connected to nets: " << gates[i].in[0] << " , "<< g
 ates[i].in[1] << " ; outnet: " << gates[i].out << " val="<< (int)gates[i].val<<
  " delay:" << (int)gates[i].delay << endl;[] 
  []
 
-[27]
-Overfull \hbox (21.17642pt too wide) in paragraph at lines 795--795
+[28]
+Overfull \hbox (21.17642pt too wide) in paragraph at lines 804--804
 [] \OT1/cmtt/m/n/6 Simulator* sim = new Simulator("./../../inputs_outputs/30000
 .cir","./../../inputs_outputs/30000.run","./../../inputs_outputs/30000_enigma.o
 ut");[] 
  []
 
-[28] [29] [30] [31] [32] [33]
+[29] [30] [31] [32] [33] [34]
 APPENDIX D.
-[34
+[35
 
 ]
-Overfull \hbox (17.98888pt too wide) in paragraph at lines 1135--1135
+Overfull \hbox (17.98888pt too wide) in paragraph at lines 1144--1144
 [] \OT1/cmtt/m/n/6 Simulator* sim = new Simulator("./../../inputs_outputs/30000
 .cir","./../../inputs_outputs/30000.run","./../../inputs_outputs/30000_meepo.ou
 t");[] 
  []
 
-[35] [36] [37]
-Overfull \hbox (56.23943pt too wide) in paragraph at lines 1549--1549
+[36] [37] [38]
+Overfull \hbox (56.23943pt too wide) in paragraph at lines 1558--1558
 []\OT1/cmtt/m/n/6 __global__ void eventKernel(Event* dev_events,char* dev_nets,
 int *dev_fanouts,char* dev_GateTable,int currentTime,int num_gates,int fanwide,
 int num_events);[] 
  []
 
-[38] [39]
-Overfull \hbox (53.05188pt too wide) in paragraph at lines 1549--1549
+[39] [40]
+Overfull \hbox (53.05188pt too wide) in paragraph at lines 1558--1558
 []\OT1/cmtt/m/n/6 __global__ void eventKernel(Event* dev_events,char* dev_nets,
 int *dev_fanouts,char* dev_GateTable,int currentTime,int num_gates,int fanwide,
 int num_events)[] 
  []
 
-[40] [41] (C:\boun\senior_project\semester_report_final\report_final.aux) ) 
+[41] [42] (C:\boun\senior_project\semester_report_final\report_final.aux) ) 
 Here is how much of TeX's memory you used:
  4350 strings out of 494045
  53949 string characters out of 3148383
- 111412 words of memory out of 3000000
+ 111400 words of memory out of 3000000
  7565 multiletter control sequences out of 15000+200000
  12244 words of font info for 48 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -504,9 +506,9 @@ m/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report_final.pdf (45 pages, 272340 bytes).
+Output written on report_final.pdf (46 pages, 273383 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
+ 202 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
